@@ -87,12 +87,9 @@ hexo server
 浏览器输入 http://localhost:4000 就可以看到效果。
 
 #### 4.部署到github
-<<<<<<< HEAD
 
 ```
 npm install hexo-deployer-git --save
-=======
-```
->>>>>>> 1461200040a5960aa5600e0fe843e0c9d1748c38
 hexo d
 ```
+test

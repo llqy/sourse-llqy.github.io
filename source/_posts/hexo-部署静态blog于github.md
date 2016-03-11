@@ -92,4 +92,3 @@ hexo server
 npm install hexo-deployer-git --save
 hexo d
 ```
-test

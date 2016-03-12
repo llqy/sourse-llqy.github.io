@@ -17,6 +17,10 @@ git push origin master
 
 git pull origin master
 
+npm install hexo-server --save
+
+
+
 其他:
 使用git进行版本控制--在多台PC上同步源代码
 

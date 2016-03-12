@@ -8,7 +8,7 @@ OS: win7 64位
 
 安装Node & git:
 
-到[Nodejs.org](http://nodejs.org/) 官网下载安装最新版.
+到[Nodejs.org](http://nodejs.org/ "好网站") 官网下载安装最新版.
 
 到[git-scm.com](http://www.git-scm.com/)官网下载安装最新版.
 ## 开始行动

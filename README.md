@@ -47,7 +47,8 @@ npm install hexo-server --save
   git init
   git add *
   git commit -m 'initial commit'
-  git remote add origin ssh://huzhenwei@192.168.1.2/home/huzhenwei/repos.git            #192.168.1.2为服务器的VPN内网IP
+  git remote add origin ssh://huzhenwei@192.168.1.2/home/huzhenwei/repos.git 
+  #192.168.1.2为服务器的VPN内网IP
   git push origin master        #将本地的代码上传到服务器端
 ```
 
